@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/panther/projects/BiMap/lower_bound.cpp
+iostream
+-
+vector
+-
+string
+-
+algorithm
+-
+iterator
+-
+sstream
+-
+
+/home/panther/projects/BiMap/proj09_bimap.cpp
+
