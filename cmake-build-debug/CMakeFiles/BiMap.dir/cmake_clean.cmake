@@ -1,5 +1,4 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/BiMap.dir/lower_bound.cpp.o"
   "CMakeFiles/BiMap.dir/proj09_bimap.cpp.o"
   "BiMap.pdb"
   "BiMap"

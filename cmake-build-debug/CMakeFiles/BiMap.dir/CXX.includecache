@@ -6,19 +6,25 @@
 
 #IncludeRegexTransform: 
 
-/home/panther/projects/BiMap/lower_bound.cpp
+/home/panther/projects/BiMap/proj09_bimap.cpp
 iostream
 -
+proj09_bimap.h
+/home/panther/projects/BiMap/proj09_bimap.h
+algorithm
+-
+sstream
+-
+iterator
+-
+
+/home/panther/projects/BiMap/proj09_bimap.h
 vector
 -
 string
 -
-algorithm
+utility
 -
-iterator
+ostream
 -
-sstream
--
-
-/home/panther/projects/BiMap/proj09_bimap.cpp
 

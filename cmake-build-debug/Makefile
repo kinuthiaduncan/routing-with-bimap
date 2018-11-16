@@ -123,33 +123,6 @@ BiMap/fast:
 	$(MAKE) -f CMakeFiles/BiMap.dir/build.make CMakeFiles/BiMap.dir/build
 .PHONY : BiMap/fast
 
-lower_bound.o: lower_bound.cpp.o
-
-.PHONY : lower_bound.o
-
-# target to build an object file
-lower_bound.cpp.o:
-	$(MAKE) -f CMakeFiles/BiMap.dir/build.make CMakeFiles/BiMap.dir/lower_bound.cpp.o
-.PHONY : lower_bound.cpp.o
-
-lower_bound.i: lower_bound.cpp.i
-
-.PHONY : lower_bound.i
-
-# target to preprocess a source file
-lower_bound.cpp.i:
-	$(MAKE) -f CMakeFiles/BiMap.dir/build.make CMakeFiles/BiMap.dir/lower_bound.cpp.i
-.PHONY : lower_bound.cpp.i
-
-lower_bound.s: lower_bound.cpp.s
-
-.PHONY : lower_bound.s
-
-# target to generate assembly for a file
-lower_bound.cpp.s:
-	$(MAKE) -f CMakeFiles/BiMap.dir/build.make CMakeFiles/BiMap.dir/lower_bound.cpp.s
-.PHONY : lower_bound.cpp.s
-
 proj09_bimap.o: proj09_bimap.cpp.o
 
 .PHONY : proj09_bimap.o
@@ -186,9 +159,6 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... BiMap"
-	@echo "... lower_bound.o"
-	@echo "... lower_bound.i"
-	@echo "... lower_bound.s"
 	@echo "... proj09_bimap.o"
 	@echo "... proj09_bimap.i"
 	@echo "... proj09_bimap.s"

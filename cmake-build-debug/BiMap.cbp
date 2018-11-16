@@ -84,9 +84,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/panther/projects/BiMap/lower_bound.cpp">
-			<Option target="BiMap"/>
-		</Unit>
 		<Unit filename="/home/panther/projects/BiMap/proj09_bimap.cpp">
 			<Option target="BiMap"/>
 		</Unit>
